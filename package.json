@@ -1,0 +1,12 @@
+{
+  "name": "kfuri-canvas-grid",
+  "version": "0.3.0",
+  "description": "Canvas object to draw and fill grid with squares.",
+  "main": "index.js",
+  "author": "pedkfuri",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedkfuri/kfuri-canvas-grid.git"
+  }
+}

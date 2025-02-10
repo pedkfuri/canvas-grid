@@ -1,6 +1,6 @@
 # Canvas Grid 
 
-(https://www.npmjs.com/package/kfuri-canvas-grid)[NPM]
+[https://www.npmjs.com/package/kfuri-canvas-grid](NPM)
 
 Abstraction of a grid in HTML Canvas to help visualize algorithm execution. 
 

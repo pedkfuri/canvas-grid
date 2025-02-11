@@ -1,0 +1,17 @@
+{
+  "name": "canvas-grid-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "webpack --mode production && serve ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-grid-mapper": "^0.3.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.97.1"
+  }
+}

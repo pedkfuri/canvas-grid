@@ -1,7 +1,7 @@
 {
-  "name": "kfuri-canvas-grid",
-  "version": "0.3.0",
-  "description": "Canvas object to draw and fill grid with squares.",
+  "name": "canvas-grid-mapper",
+  "version": "0.3.1",
+  "description": "JavaScript library that abstracts an HTML5 canvas into a customizable, coordinate-based grid system",
   "main": "index.js",
   "author": "pedkfuri",
   "license": "ISC",
